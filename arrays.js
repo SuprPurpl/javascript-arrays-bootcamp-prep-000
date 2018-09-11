@@ -35,6 +35,6 @@ function removeElementFromBeginningOfArray(numbers){
   return numbers.slice(1);
 }
 
-function
+function 
 
 
