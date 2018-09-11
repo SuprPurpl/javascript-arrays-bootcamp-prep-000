@@ -35,6 +35,11 @@ function removeElementFromBeginningOfArray(numbers){
   return numbers.slice(1);
 }
 
-function destructivelyRemoveElementFromEndOfArray
+function destructivelyRemoveElementFromEndOfArray(numbers){
+numbers.pop();
+return numbers;
+}
+
+
 
 
