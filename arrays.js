@@ -40,6 +40,8 @@ numbers.pop();
 return numbers;
 }
 
-
+function removeElementFromEndOfArray(numbers){
+return numbers.slice(0, numbers.length-1);
+}
 
 
